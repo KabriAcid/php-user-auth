@@ -8,6 +8,10 @@ require_once '../config/database.php';
 <head>
     <meta charset="UTF-8">
     <title>Register</title>
+    <!-- Added some water.css styles to the webpage -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
+    <!-- Added some random favicon -->
+    <link rel="icon" type="image/png" href="https://www.paypalobjects.com/webstatic/icon/pp32.png">
 </head>
 <body>
     <form action="" method="post">
